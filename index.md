@@ -1,6 +1,6 @@
 ## 关于我
 
-👨🏻‍💼男 | 🎂1991.01 | 📞18011795651 | 📧164174421@qq.com
+👨🏻‍💼男 | 🎂1991.01 | 📞18011795651 | 📧164174421@qq.com <br/>
 🔨五年工作经验 | 💡求职意向: PHP
 
 You can use the [editor on GitHub](https://github.com/Yvesjava/Yvesjava.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
