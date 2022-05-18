@@ -17,4 +17,4 @@ exclude: ['README.md']
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-slate1
+theme: jekyll-theme-slate
