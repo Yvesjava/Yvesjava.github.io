@@ -4,6 +4,21 @@
 <br/>
 🔨五年工作经验 | 💡求职意向: PHP
 
+***
+### 个人优势
+**5年全栈开发经验，熟练掌握前后端开发语言，了解主流PHP框架的技术原理，具备系统架构能力，熟悉缓存、高可用等主流
+技术，能独立完成服务端开发，注重代码质量，有良好的软件工程知识和编码规范意识。**
+
+***
+### 工作经历
+<p style="text-align:center">
+试试内容居中
+</p>
+
+<p style="text-align:right">
+那内容居右呢？
+</p>
+
 You can use the [editor on GitHub](https://github.com/Yvesjava/Yvesjava.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
