@@ -1,12 +1,12 @@
 # Site settings
-name: 邵文
-location: 石家庄
-company: 石家庄铁道大学
-position: 软件设计师
-github: https://github.com/shaowens
-facebook: https://www.facebook.com/
-phone: 1863733XXXX
-email: 2698547773@qq.com
+name: 全建誉
+location: 广州
+#company: 石家庄铁道大学
+position: PHP|JAVA|GO|NODE
+github: https://github.com/Yvesjava
+#facebook: https://www.facebook.com/
+#phone: 1863733XXXX
+email: 164174421@qq.com
 
 baseurl: ""
 
